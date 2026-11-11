@@ -1,0 +1,44 @@
+column_1_based,feature,group
+1,profile_factor,profile / flow shape
+2,symmetry,profile / flow shape
+3,crossflow,profile / flow shape
+4,flow_velocity_1,flow velocity
+5,flow_velocity_2,flow velocity
+6,flow_velocity_3,flow velocity
+7,flow_velocity_4,flow velocity
+8,sound_speed_1,sound speed
+9,sound_speed_2,sound speed
+10,sound_speed_3,sound speed
+11,sound_speed_4,sound speed
+12,signal_strength_1,signal strength
+13,signal_strength_2,signal strength
+14,signal_strength_3,signal strength
+15,signal_strength_4,signal strength
+16,signal_strength_5,signal strength
+17,signal_strength_6,signal strength
+18,signal_strength_7,signal strength
+19,signal_strength_8,signal strength
+20,signal_quality_1,signal quality
+21,signal_quality_2,signal quality
+22,signal_quality_3,signal quality
+23,signal_quality_4,signal quality
+24,signal_quality_5,signal quality
+25,signal_quality_6,signal quality
+26,signal_quality_7,signal quality
+27,signal_quality_8,signal quality
+28,gain_1,gain
+29,gain_2,gain
+30,gain_3,gain
+31,gain_4,gain
+32,gain_5,gain
+33,gain_6,gain
+34,gain_7,gain
+35,gain_8,gain
+36,transit_time_1,transit time
+37,transit_time_2,transit time
+38,transit_time_3,transit time
+39,transit_time_4,transit time
+40,transit_time_5,transit time
+41,transit_time_6,transit time
+42,transit_time_7,transit time
+43,transit_time_8,transit time
