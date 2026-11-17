@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="500" viewBox="0 0 940 500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="470.0" y="30" text-anchor="middle" font-family="Arial" font-size="18">Binary fault detection: balanced accuracy</text>
+<line x1="100" y1="405.0" x2="890" y2="405.0" stroke="#e6e6e6"/>
+<text x="92" y="409.0" text-anchor="end" font-family="Arial" font-size="11">0.00</text>
+<line x1="100" y1="322.5" x2="890" y2="322.5" stroke="#e6e6e6"/>
+<text x="92" y="326.5" text-anchor="end" font-family="Arial" font-size="11">0.27</text>
+<line x1="100" y1="240.0" x2="890" y2="240.0" stroke="#e6e6e6"/>
+<text x="92" y="244.0" text-anchor="end" font-family="Arial" font-size="11">0.54</text>
+<line x1="100" y1="157.5" x2="890" y2="157.5" stroke="#e6e6e6"/>
+<text x="92" y="161.5" text-anchor="end" font-family="Arial" font-size="11">0.81</text>
+<line x1="100" y1="75.0" x2="890" y2="75.0" stroke="#e6e6e6"/>
+<text x="92" y="79.0" text-anchor="end" font-family="Arial" font-size="11">1.07</text>
+<rect x="111.5" y="251.5" width="42.8" height="153.5" fill="#888f98"/>
+<text x="132.9" y="423" text-anchor="middle" font-family="Arial" font-size="10">C</text>
+<rect x="177.4" y="251.5" width="42.8" height="153.5" fill="#888f98"/>
+<text x="198.8" y="423" text-anchor="middle" font-family="Arial" font-size="10">D</text>
+<text x="165.8" y="445" text-anchor="middle" font-family="Arial" font-size="10">Always no fault</text>
+<rect x="243.2" y="251.5" width="42.8" height="153.5" fill="#c84c50"/>
+<text x="264.6" y="423" text-anchor="middle" font-family="Arial" font-size="10">C</text>
+<rect x="309.0" y="251.5" width="42.8" height="153.5" fill="#c84c50"/>
+<text x="330.4" y="423" text-anchor="middle" font-family="Arial" font-size="10">D</text>
+<text x="297.5" y="445" text-anchor="middle" font-family="Arial" font-size="10">Always fault</text>
+<rect x="374.9" y="208.6" width="42.8" height="196.4" fill="#2878b5"/>
+<text x="396.2" y="423" text-anchor="middle" font-family="Arial" font-size="10">C</text>
+<rect x="440.7" y="203.6" width="42.8" height="201.4" fill="#2878b5"/>
+<text x="462.1" y="423" text-anchor="middle" font-family="Arial" font-size="10">D</text>
+<text x="429.2" y="445" text-anchor="middle" font-family="Arial" font-size="10">Logistic</text>
+<rect x="506.5" y="141.9" width="42.8" height="263.1" fill="#d97827"/>
+<text x="527.9" y="423" text-anchor="middle" font-family="Arial" font-size="10">C</text>
+<rect x="572.4" y="150.8" width="42.8" height="254.2" fill="#d97827"/>
+<text x="593.8" y="423" text-anchor="middle" font-family="Arial" font-size="10">D</text>
+<text x="560.8" y="445" text-anchor="middle" font-family="Arial" font-size="10">k-NN (k=5)</text>
+<rect x="638.2" y="194.7" width="42.8" height="210.3" fill="#26936c"/>
+<text x="659.6" y="423" text-anchor="middle" font-family="Arial" font-size="10">C</text>
+<rect x="704.0" y="168.2" width="42.8" height="236.8" fill="#26936c"/>
+<text x="725.4" y="423" text-anchor="middle" font-family="Arial" font-size="10">D</text>
+<text x="692.5" y="445" text-anchor="middle" font-family="Arial" font-size="10">Gaussian NB</text>
+<rect x="769.9" y="110.4" width="42.8" height="294.6" fill="#9163a8"/>
+<text x="791.2" y="423" text-anchor="middle" font-family="Arial" font-size="10">C</text>
+<rect x="835.7" y="131.2" width="42.8" height="273.8" fill="#9163a8"/>
+<text x="857.1" y="423" text-anchor="middle" font-family="Arial" font-size="10">D</text>
+<text x="824.2" y="445" text-anchor="middle" font-family="Arial" font-size="10">Random forest</text>
+<line x1="100" y1="405" x2="890" y2="405" stroke="#333"/>
+<text x="22" y="240.0" transform="rotate(-90 22 240.0)" text-anchor="middle" font-family="Arial" font-size="12">balanced accuracy</text>
+</svg>
